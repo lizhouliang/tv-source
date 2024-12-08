@@ -118,7 +118,7 @@ http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="285" tvg-name="亚洲卫视" tvg-logo="" group-title="港澳",亚洲卫视
 https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
-#EXTINF:-1 tvg-id="285" tvg-name="TVB翡翠台" tvg-logo="" group-title="港澳",TVB翡翠台
+#EXTINF:-1 tvg-id="285" tvg-name="TVB翡翠台" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/tvb翡翠.png" group-title="港澳",TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="教育频道",CETV-1
@@ -149,24 +149,24 @@ http://39.134.13.35:6610/180000001001/00000001000000000008000000047429/index.m3u
 #EXTINF:-1 tvg-id="17249" tvg-name="长沙政法" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/长沙政法.png" group-title="湖南地方",长沙政法
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047430/index.m3u8?
 
-#EXTINF:-1 tvg-id="10000" tvg-name="CHC影迷电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
+#EXTINF:-1 tvg-id="10000" tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-#EXTINF:-1 tvg-id="10001" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC动作电影.png" group-title="电影频道",CHC动作电影
+#EXTINF:-1 tvg-id="10001" tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
-#EXTINF:-1 tvg-id="10002" tvg-name="动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/动作电影.png" group-title="电影频道",动作电影
+#EXTINF:-1 tvg-id="10002" tvg-name="动作电影" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV动作电影.png" group-title="电影频道",动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-id="10003" tvg-name="1905电影网" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/1905电影网.png" group-title="电影频道",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="10004" tvg-name="成龙电影" tvg-logo="" group-title="电影频道",成龙电影
 http://zzy789.xyz/douyu1.php?id=3379942
 
-#EXTINF:-1 tvg-id="20000" tvg-name="农业致富" tvg-logo="" group-title="其他频道",农业致富
+#EXTINF:-1 tvg-id="20000" tvg-name="农业致富" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV农业致富.png" group-title="其他频道",农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 tvg-id="20001" tvg-name="爱情喜剧" tvg-logo="" group-title="其他频道",爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="20002" tvg-name="怡伴健康" tvg-logo="" group-title="其他频道",怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-id="20003" tvg-name="武搏世界" tvg-logo="" group-title="其他频道",武搏世界
+#EXTINF:-1 tvg-id="20003" tvg-name="武搏世界" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV武搏世界.png" group-title="其他频道",武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-id="20004" tvg-name="直播中国" tvg-logo="" group-title="其他频道",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
