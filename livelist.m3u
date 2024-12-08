@@ -146,7 +146,7 @@ http://39.134.13.35:6610/180000001001/00000001000000000008000000047426/index.m3u
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001247/index.m3u8?
 #EXTINF:-1 tvg-id="17249" tvg-name="长沙新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/长沙新闻.png" group-title="湖南地方",长沙新闻
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047429/index.m3u8?
-#EXTINF:-1 tvg-id="17249" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/金鹰卡通.png" group-title="湖南地方",金鹰卡通
+#EXTINF:-1 tvg-id="17249" tvg-name="长沙政法" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/长沙政法.png" group-title="湖南地方",长沙政法
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047430/index.m3u8?
 
 #EXTINF:-1 tvg-id="10000" tvg-name="CHC影迷电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
