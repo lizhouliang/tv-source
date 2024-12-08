@@ -164,7 +164,7 @@ http://zzy789.xyz/douyu1.php?id=3379942
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 tvg-id="20001" tvg-name="爱情喜剧" tvg-logo="" group-title="其他频道",爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="20002" tvg-name="怡伴健康" tvg-logo="" group-title="其他频道",怡伴健康
+#EXTINF:-1 tvg-id="20002" tvg-name="怡伴健康" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV怡伴健康.png" group-title="其他频道",怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="20003" tvg-name="武搏世界" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV武搏世界.png" group-title="其他频道",武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
