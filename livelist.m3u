@@ -130,7 +130,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 #EXTINF:-1 tvg-id="17245" tvg-name="湖南经视" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南经视.png" group-title="湖南地方",湖南经视
 http://php.jdshipin.com:8880/iptv.php?id=hnjs
-#EXTINF:-1 tvg-id="17246" tvg-name="湖南都视" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南都视.png" group-title="湖南地方",湖南都视
+#EXTINF:-1 tvg-id="17246" tvg-name="湖南都视" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南都市.png" group-title="湖南地方",湖南都视
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001249/index.m3u8?
 #EXTINF:-1 tvg-id="17247" tvg-name="湖南电视剧" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南电视剧.png" group-title="湖南地方",湖南电视剧
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001245/index.m3u8?
