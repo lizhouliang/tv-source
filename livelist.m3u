@@ -109,9 +109,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-id="281" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+http://146.56.153.245:20121/bysid/258$LR•IPV4『线路81』
 #EXTINF:-1 tvg-id="282" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳",凤凰资讯
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+http://146.56.153.245:20121/bysid/257$LR•IPV4『线路35』
 #EXTINF:-1 tvg-id="283" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="284" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳",香港卫视
@@ -129,7 +129,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 #EXTINF:-1 tvg-id="17245" tvg-name="湖南经视" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南经视.png" group-title="湖南地方",湖南经视
-http://php.jdshipin.com:8880/iptv.php?id=hnjs
+https://stream1.freetv.fun/hu-nan-jing-shi-4.m3u8
 #EXTINF:-1 tvg-id="17246" tvg-name="湖南都视" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南都市.png" group-title="湖南地方",湖南都视
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001249/index.m3u8?
 #EXTINF:-1 tvg-id="17247" tvg-name="湖南电视剧" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南电视剧.png" group-title="湖南地方",湖南电视剧
@@ -138,12 +138,18 @@ http://39.134.13.35:6610/180000001001/00000001000000000007000000001245/index.m3u
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001246/index.m3u8?
 #EXTINF:-1 tvg-id="17249" tvg-name="湖南娱乐" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南娱乐.png" group-title="湖南地方",湖南娱乐
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001248/index.m3u8?
-#EXTINF:-1 tvg-id="17249" tvg-name="湖南爱晚" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南爱晚.png" group-title="湖南地方",湖南爱晚
-http://39.134.13.35:6610/180000001001/00000001000000000008000000047425/index.m3u8?
+
 #EXTINF:-1 tvg-id="17249" tvg-name="湖南国际" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南国际.png" group-title="湖南地方",湖南国际
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047426/index.m3u8?
+#EXTINF:-1 tvg-id="17249" tvg-name="湖南教育" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南教育.png" group-title="湖南地方",湖南教育
+http://111.8.242.126:9999/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-id="17249" tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/金鹰纪实.png" group-title="湖南地方",金鹰纪实
+http://60.10.106.114:555/udp/239.253.92.103:6054
 #EXTINF:-1 tvg-id="17249" tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南金鹰卡通.png" group-title="湖南地方",金鹰卡通
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001247/index.m3u8?
+#EXTINF:-1 tvg-id="17249" tvg-name="湖南爱晚" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南爱晚.png" group-title="湖南地方",湖南爱晚
+http://39.134.13.35:6610/180000001001/00000001000000000008000000047425/index.m3u8?
+
 #EXTINF:-1 tvg-id="17249" tvg-name="长沙新闻" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/长沙新闻.png" group-title="湖南地方",长沙新闻
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047429/index.m3u8?
 #EXTINF:-1 tvg-id="17249" tvg-name="长沙政法" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/长沙政法.png" group-title="湖南地方",长沙政法
@@ -155,12 +161,25 @@ http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-id="10001" tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
-#EXTINF:-1 tvg-id="10002" tvg-name="动作电影" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV动作电影.png" group-title="电影频道",动作电影
+#EXTINF:-1 tvg-id="10002" tvg-name="NEWTV超级电影" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV超级电影.png" group-title="电影频道",NEWTV超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="10002" tvg-name="NEWTV动作电影" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV动作电影.png" group-title="电影频道",NEWTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="10002" tvg-name="NEWTV黑莓电影" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV黑莓电影.png" group-title="电影频道",NEWTV黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="10002" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV惊悚悬疑.png" group-title="电影频道",NEWTV惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+
+#EXTINF:-1 tvg-id="10003" tvg-name="AMC电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/AMC电影.png" group-title="电影频道",AMC电影
+http://61.221.215.25:8800/hls/43/index.m3u8
+
 #EXTINF:-1 tvg-id="10003" tvg-name="1905电影网" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/1905电影网.png" group-title="电影频道",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="10004" tvg-name="成龙电影" tvg-logo="" group-title="电影频道",成龙电影
 http://zzy789.xyz/douyu1.php?id=3379942
+
+#EXTINF:-1 tvg-id="10002" tvg-name="NEWTV超级电视剧" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV超级电视剧.png" group-title="电视剧频道",NEWTV超级电视剧
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 
 #EXTINF:-1 tvg-id="20000" tvg-name="农业致富" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV农业致富.png" group-title="其他频道",农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
