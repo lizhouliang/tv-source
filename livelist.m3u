@@ -144,7 +144,7 @@ http://39.134.13.35:6610/180000001001/00000001000000000008000000047426/index.m3u
 #EXTINF:-1 tvg-id="17249" tvg-name="湖南教育" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南教育.png" group-title="湖南地方",湖南教育
 http://111.8.242.126:9999/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="17249" tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/金鹰纪实.png" group-title="湖南地方",金鹰纪实
-http://124.231.214.5:9999/tsfile/live/1095_1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 #EXTINF:-1 tvg-id="17249" tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南金鹰卡通.png" group-title="湖南地方",金鹰卡通
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001247/index.m3u8?
 #EXTINF:-1 tvg-id="17249" tvg-name="湖南爱晚" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南爱晚.png" group-title="湖南地方",湖南爱晚
@@ -180,6 +180,8 @@ http://zzy789.xyz/douyu1.php?id=3379942
 
 #EXTINF:-1 tvg-id="10002" tvg-name="NEWTV超级电视剧" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV超级电视剧.png" group-title="电视剧频道",NEWTV超级电视剧
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-name="newtv家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png" group-title="数字频道",家庭剧场
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000108/index.m3u8
 
 #EXTINF:-1 tvg-id="20000" tvg-name="农业致富" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV农业致富.png" group-title="其他频道",农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
