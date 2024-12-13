@@ -156,7 +156,7 @@ http://39.134.13.35:6610/180000001001/00000001000000000008000000047429/index.m3u
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047430/index.m3u8?
 
 #EXTINF:-1 tvg-id="10000" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png"  group-title="电影频道",CHC家庭影院
-http://eastscreen.tv/ooooo.php?id=chcjt
+http://113.57.109.48:1111/tsfile/live/1044_1.m3u8
 #EXTINF:-1 tvg-id="10000" tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://eastscreen.tv/ooooo.php?id=chchd
 #EXTINF:-1 tvg-id="10001" tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
@@ -180,8 +180,6 @@ http://zzy789.xyz/douyu1.php?id=3379942
 
 #EXTINF:-1 tvg-id="10002" tvg-name="NEWTV超级电视剧" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV超级电视剧.png" group-title="电视剧频道",NEWTV超级电视剧
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-name="newtv家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png" group-title="数字频道",家庭剧场
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000108/index.m3u8
 
 #EXTINF:-1 tvg-id="20000" tvg-name="农业致富" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV农业致富.png" group-title="其他频道",农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
