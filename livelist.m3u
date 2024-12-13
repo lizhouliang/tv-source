@@ -143,7 +143,7 @@ http://39.134.13.35:6610/180000001001/00000001000000000007000000001248/index.m3u
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047426/index.m3u8?
 #EXTINF:-1 tvg-id="17249" tvg-name="湖南教育" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南教育.png" group-title="湖南地方",湖南教育
 http://111.8.242.126:9999/tsfile/live/1015_1.m3u8
-#EXTINF:-1 tvg-id="17249" tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/金鹰纪实.png" group-title="湖南地方",金鹰纪实
+#EXTINF:-1 tvg-id="17249" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="湖南地方",金鹰纪实
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 #EXTINF:-1 tvg-id="17249" tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南金鹰卡通.png" group-title="湖南地方",金鹰卡通
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001247/index.m3u8?
