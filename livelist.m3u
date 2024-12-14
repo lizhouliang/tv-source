@@ -127,6 +127,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="教育频道",CETV-4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 tvg-id="7245" tvg-name="山东教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/山东教育.png" group-title="教育频道",山东教育
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="17245" tvg-name="湖南经视" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南经视.png" group-title="湖南地方",湖南经视
 http://3ad2a0.tv.netsite.cc/proxy/1075467511/1075467511.m3u8
@@ -144,7 +146,7 @@ http://39.134.13.35:6610/180000001001/00000001000000000008000000047426/index.m3u
 #EXTINF:-1 tvg-id="17249" tvg-name="湖南教育" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南教育.png" group-title="湖南地方",湖南教育
 http://111.8.242.126:9999/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="17249" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="湖南地方",金鹰纪实
-http://115.48.61.28:9901/tsfile/live/1022_1.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7884242846753128038&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="17249" tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南金鹰卡通.png" group-title="湖南地方",金鹰卡通
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001247/index.m3u8?
 #EXTINF:-1 tvg-id="17249" tvg-name="湖南爱晚" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南爱晚.png" group-title="湖南地方",湖南爱晚
@@ -180,16 +182,40 @@ http://zzy789.xyz/douyu1.php?id=3379942
 
 #EXTINF:-1 tvg-id="10002" tvg-name="NEWTV超级电视剧" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV超级电视剧.png" group-title="电视剧频道",NEWTV超级电视剧
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
-
-#EXTINF:-1 tvg-id="20000" tvg-name="农业致富" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV农业致富.png" group-title="其他频道",农业致富
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-id="20001" tvg-name="爱情喜剧" tvg-logo="" group-title="其他频道",爱情喜剧
+#EXTINF:-1 tvg-id="20001" tvg-name="NEWTV军旅剧场" tvg-logo="" group-title="电视剧频道",NEWTV军旅剧场
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=2
+#EXTINF:-1 tvg-id="20001" tvg-name="NEWTV家庭剧场" tvg-logo="" group-title="电视剧频道",NEWTV家庭剧场
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=2
+#EXTINF:-1 tvg-id="20001" tvg-name="NEWTV古装剧场" tvg-logo="" group-title="电视剧频道",NEWTV古装剧场
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=2
+#EXTINF:-1 tvg-id="20001" tvg-name="NewTV爱情喜剧" tvg-logo="" group-title="其他频道",NewTV爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="20002" tvg-name="怡伴健康" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV怡伴健康.png" group-title="其他频道",怡伴健康
+
+#EXTINF:-1 tvg-id="20005" tvg-name="上海纪实人文" tvg-logo="" group-title="纪实人文",上海纪实人文
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=2
+#EXTINF:-1 tvg-id="20005" tvg-name="NewTV精品记录" tvg-logo="" group-title="纪实人文",NewTV精品记录
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=2
+#EXTINF:-1 tvg-id="20005" tvg-name="NewTV军事评论" tvg-logo="" group-title="纪实人文",NewTV军事评论
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=2
+
+#EXTINF:-1 tvg-id="20005" tvg-name="NewTV精品体育" tvg-logo="" group-title="体育频道",NewTV精品体育
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=2
+#EXTINF:-1 tvg-id="20005" tvg-name="NewTV超级体育" tvg-logo="" group-title="体育频道",NewTV超级体育
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=2
+
+#EXTINF:-1 tvg-id="20000" tvg-name="NewTV农业致富" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV农业致富.png" group-title="其他频道",NewTV农业致富
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-id="20002" tvg-name="NewTV怡伴健康" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV怡伴健康.png" group-title="其他频道",NewTV怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-id="20003" tvg-name="武搏世界" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV武搏世界.png" group-title="其他频道",武搏世界
+#EXTINF:-1 tvg-id="20003" tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV武搏世界.png" group-title="其他频道",NewTV武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-id="20004" tvg-name="直播中国" tvg-logo="" group-title="其他频道",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="20005" tvg-name="重温经典" tvg-logo="" group-title="其他频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-id="20005" tvg-name="NewTV魅力潇湘" tvg-logo="" group-title="其他频道",NewTV魅力潇湘
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=2
+#EXTINF:-1 tvg-id="20005" tvg-name="大湾区卫视" tvg-logo="" group-title="其他频道",大湾区卫视
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=2
+#EXTINF:-1 tvg-id="20005" tvg-name="纯享4K" tvg-logo="" group-title="其他频道",纯享4K
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=2
