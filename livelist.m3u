@@ -183,12 +183,14 @@ http://zzy789.xyz/douyu1.php?id=3379942
 #EXTINF:-1 tvg-id="10002" tvg-name="NEWTV超级电视剧" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV超级电视剧.png" group-title="电视剧频道",NEWTV超级电视剧
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-id="20001" tvg-name="NEWTV军旅剧场" tvg-logo="" group-title="电视剧频道",NEWTV军旅剧场
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=2
+#EXTINF:-1 tvg-id="20001" tvg-name="NEWTV中国功夫" tvg-logo="" group-title="电视剧频道",NEWTV中国功夫
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="20001" tvg-name="NEWTV家庭剧场" tvg-logo="" group-title="电视剧频道",NEWTV家庭剧场
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=2
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="20001" tvg-name="NEWTV古装剧场" tvg-logo="" group-title="电视剧频道",NEWTV古装剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=2
-#EXTINF:-1 tvg-id="20001" tvg-name="NewTV爱情喜剧" tvg-logo="" group-title="其他频道",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="20001" tvg-name="NewTV爱情喜剧" tvg-logo="" group-title="电视剧频道",NewTV爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 
 #EXTINF:-1 tvg-id="20005" tvg-name="上海纪实人文" tvg-logo="" group-title="纪实人文",上海纪实人文
@@ -199,9 +201,9 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7151256
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="20005" tvg-name="NewTV精品体育" tvg-logo="" group-title="体育频道",NewTV精品体育
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=2
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="20005" tvg-name="NewTV超级体育" tvg-logo="" group-title="体育频道",NewTV超级体育
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=2
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="20000" tvg-name="NewTV农业致富" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV农业致富.png" group-title="其他频道",NewTV农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
@@ -214,8 +216,6 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="20005" tvg-name="重温经典" tvg-logo="" group-title="其他频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="20005" tvg-name="NewTV魅力潇湘" tvg-logo="" group-title="其他频道",NewTV魅力潇湘
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=2
-#EXTINF:-1 tvg-id="20005" tvg-name="大湾区卫视" tvg-logo="" group-title="其他频道",大湾区卫视
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=2
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="20005" tvg-name="纯享4K" tvg-logo="" group-title="其他频道",纯享4K
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=2
