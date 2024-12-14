@@ -196,14 +196,14 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="20005" tvg-name="上海纪实人文" tvg-logo="" group-title="纪实人文",上海纪实人文
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="20005" tvg-name="NewTV精品记录" tvg-logo="" group-title="纪实人文",NewTV精品记录
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=2
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="20005" tvg-name="NewTV军事评论" tvg-logo="" group-title="纪实人文",NewTV军事评论
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=2
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="20005" tvg-name="NewTV精品体育" tvg-logo="" group-title="体育频道",NewTV精品体育
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="20005" tvg-name="NewTV超级体育" tvg-logo="" group-title="体育频道",NewTV超级体育
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=2
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="20000" tvg-name="NewTV农业致富" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/NEWTV农业致富.png" group-title="其他频道",NewTV农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
