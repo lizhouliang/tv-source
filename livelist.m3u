@@ -131,7 +131,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="17245" tvg-name="湖南经视" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南经视.png" group-title="湖南地方",湖南经视
-http://3ad2a0.tv.netsite.cc/proxy/1075467511/1075467511.m3u8
+http://124.231.212.163:9999/tsfile/live/1091_1.m3u8
 #EXTINF:-1 tvg-id="17246" tvg-name="湖南都视" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南都市.png" group-title="湖南地方",湖南都视
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001249/index.m3u8?
 #EXTINF:-1 tvg-id="17247" tvg-name="湖南电视剧" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南电视剧.png" group-title="湖南地方",湖南电视剧
@@ -146,7 +146,7 @@ http://39.134.13.35:6610/180000001001/00000001000000000008000000047426/index.m3u
 #EXTINF:-1 tvg-id="17249" tvg-name="湖南教育" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南教育.png" group-title="湖南地方",湖南教育
 http://111.8.242.126:9999/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="17249" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="湖南地方",金鹰纪实
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7884242846753128038&livemode=1&stbId=2
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="17249" tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南金鹰卡通.png" group-title="湖南地方",金鹰卡通
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001247/index.m3u8?
 #EXTINF:-1 tvg-id="17249" tvg-name="湖南爱晚" tvg-logo="https://gh-proxy.abszm.online/https://raw.githubusercontent.com/lizhouliang/tv-source/main/Logo/湖南爱晚.png" group-title="湖南地方",湖南爱晚
